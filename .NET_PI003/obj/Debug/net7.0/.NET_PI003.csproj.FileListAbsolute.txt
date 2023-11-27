@@ -1,0 +1,14 @@
+C:\RESITIC18_DotNet_T2\.NET_PI003\bin\Debug\net7.0\.NET_PI003.exe
+C:\RESITIC18_DotNet_T2\.NET_PI003\bin\Debug\net7.0\.NET_PI003.deps.json
+C:\RESITIC18_DotNet_T2\.NET_PI003\bin\Debug\net7.0\.NET_PI003.runtimeconfig.json
+C:\RESITIC18_DotNet_T2\.NET_PI003\bin\Debug\net7.0\.NET_PI003.dll
+C:\RESITIC18_DotNet_T2\.NET_PI003\bin\Debug\net7.0\.NET_PI003.pdb
+C:\RESITIC18_DotNet_T2\.NET_PI003\obj\Debug\net7.0\.NET_PI003.GeneratedMSBuildEditorConfig.editorconfig
+C:\RESITIC18_DotNet_T2\.NET_PI003\obj\Debug\net7.0\.NET_PI003.AssemblyInfoInputs.cache
+C:\RESITIC18_DotNet_T2\.NET_PI003\obj\Debug\net7.0\.NET_PI003.AssemblyInfo.cs
+C:\RESITIC18_DotNet_T2\.NET_PI003\obj\Debug\net7.0\.NET_PI003.csproj.CoreCompileInputs.cache
+C:\RESITIC18_DotNet_T2\.NET_PI003\obj\Debug\net7.0\.NET_PI003.dll
+C:\RESITIC18_DotNet_T2\.NET_PI003\obj\Debug\net7.0\refint\.NET_PI003.dll
+C:\RESITIC18_DotNet_T2\.NET_PI003\obj\Debug\net7.0\.NET_PI003.pdb
+C:\RESITIC18_DotNet_T2\.NET_PI003\obj\Debug\net7.0\.NET_PI003.genruntimeconfig.cache
+C:\RESITIC18_DotNet_T2\.NET_PI003\obj\Debug\net7.0\ref\.NET_PI003.dll
