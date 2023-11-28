@@ -1,0 +1,15 @@
+C:\RESITIC18_DotNet_T2\.NET-AV\bin\Debug\net8.0\.NET-AV.exe
+C:\RESITIC18_DotNet_T2\.NET-AV\bin\Debug\net8.0\.NET-AV.deps.json
+C:\RESITIC18_DotNet_T2\.NET-AV\bin\Debug\net8.0\.NET-AV.runtimeconfig.json
+C:\RESITIC18_DotNet_T2\.NET-AV\bin\Debug\net8.0\.NET-AV.dll
+C:\RESITIC18_DotNet_T2\.NET-AV\bin\Debug\net8.0\.NET-AV.pdb
+C:\RESITIC18_DotNet_T2\.NET-AV\obj\Debug\net8.0\.NET-AV.GeneratedMSBuildEditorConfig.editorconfig
+C:\RESITIC18_DotNet_T2\.NET-AV\obj\Debug\net8.0\.NET-AV.AssemblyInfoInputs.cache
+C:\RESITIC18_DotNet_T2\.NET-AV\obj\Debug\net8.0\.NET-AV.AssemblyInfo.cs
+C:\RESITIC18_DotNet_T2\.NET-AV\obj\Debug\net8.0\.NET-AV.csproj.CoreCompileInputs.cache
+C:\RESITIC18_DotNet_T2\.NET-AV\obj\Debug\net8.0\.NET-AV.sourcelink.json
+C:\RESITIC18_DotNet_T2\.NET-AV\obj\Debug\net8.0\.NET-AV.dll
+C:\RESITIC18_DotNet_T2\.NET-AV\obj\Debug\net8.0\refint\.NET-AV.dll
+C:\RESITIC18_DotNet_T2\.NET-AV\obj\Debug\net8.0\.NET-AV.pdb
+C:\RESITIC18_DotNet_T2\.NET-AV\obj\Debug\net8.0\.NET-AV.genruntimeconfig.cache
+C:\RESITIC18_DotNet_T2\.NET-AV\obj\Debug\net8.0\ref\.NET-AV.dll
